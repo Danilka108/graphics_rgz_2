@@ -2,7 +2,7 @@
 
 CC = g++
 CFLAGS = -c
-GLFLAGS = -lglut -lGL -lGLU
+GLFLAGS = -lglut -lGL -lGLU -lSOIL
 
 BUILD_PATH = ../build/
 SOURCES =  main.cpp
